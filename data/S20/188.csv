@@ -1,8 +1,8 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,188,Rajpur,PRABHULAL,Bahujan Samaj Party,1620,2,1622,0.97
-S12,Madhya Pradesh,188,Rajpur,BHANU PRATAP SINGH,Indian National Congress,67074,775,67849,40.51
-S12,Madhya Pradesh,188,Rajpur,HEERALAL NAGAR,Bharatiya Janata Party,92697,738,93435,55.78
-S12,Madhya Pradesh,188,Rajpur,RAKESHAKUMAR,Right to Recall Party,1064,1,1065,0.64
-S12,Madhya Pradesh,188,Rajpur,RAMAVTAR VERMA,Aazad Samaj Party (Kanshi Ram),1523,8,1531,0.91
-S12,Madhya Pradesh,188,Rajpur,DEEPAK MEGHWAL,Independent,683,0,683,0.41
-S12,Madhya Pradesh,188,Rajpur,NOTA,None of the Above,1313,7,1320,0.79
+S20,Rajasthan,188,Sangod,PRABHULAL,Bahujan Samaj Party,1620,2,1622,0.97
+S20,Rajasthan,188,Sangod,BHANU PRATAP SINGH,Indian National Congress,67074,775,67849,40.51
+S20,Rajasthan,188,Sangod,HEERALAL NAGAR,Bharatiya Janata Party,92697,738,93435,55.78
+S20,Rajasthan,188,Sangod,RAKESHAKUMAR,Right to Recall Party,1064,1,1065,0.64
+S20,Rajasthan,188,Sangod,RAMAVTAR VERMA,Aazad Samaj Party (Kanshi Ram),1523,8,1531,0.91
+S20,Rajasthan,188,Sangod,DEEPAK MEGHWAL,Independent,683,0,683,0.41
+S20,Rajasthan,188,Sangod,NOTA,None of the Above,1313,7,1320,0.79

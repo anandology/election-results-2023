@@ -1,9 +1,9 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,81,Deosar,ASHA RAM,Aam Aadmi Party,1066,6,1072,0.6
-S12,Madhya Pradesh,81,Deosar,KALPANA,Bahujan Samaj Party,2522,7,2529,1.4
-S12,Madhya Pradesh,81,Deosar,GHANSHYAM,Indian National Congress,95747,1642,97389,54.08
-S12,Madhya Pradesh,81,Deosar,RAMNIWAS MEENA,Bharatiya Janata Party,67983,545,68528,38.05
-S12,Madhya Pradesh,81,Deosar,RAJNISH MEHAR,Aazad Samaj Party (Kanshi Ram),3433,3,3436,1.91
-S12,Madhya Pradesh,81,Deosar,RAGHAV RAM MEENA,Independent,5267,44,5311,2.95
-S12,Madhya Pradesh,81,Deosar,RAJARAM MEENA,Independent,685,4,689,0.38
-S12,Madhya Pradesh,81,Deosar,NOTA,None of the Above,1123,2,1125,0.62
+S20,Rajasthan,81,Todabhim,ASHA RAM,Aam Aadmi Party,1066,6,1072,0.6
+S20,Rajasthan,81,Todabhim,KALPANA,Bahujan Samaj Party,2522,7,2529,1.4
+S20,Rajasthan,81,Todabhim,GHANSHYAM,Indian National Congress,95747,1642,97389,54.08
+S20,Rajasthan,81,Todabhim,RAMNIWAS MEENA,Bharatiya Janata Party,67983,545,68528,38.05
+S20,Rajasthan,81,Todabhim,RAJNISH MEHAR,Aazad Samaj Party (Kanshi Ram),3433,3,3436,1.91
+S20,Rajasthan,81,Todabhim,RAGHAV RAM MEENA,Independent,5267,44,5311,2.95
+S20,Rajasthan,81,Todabhim,RAJARAM MEENA,Independent,685,4,689,0.38
+S20,Rajasthan,81,Todabhim,NOTA,None of the Above,1123,2,1125,0.62

@@ -1,39 +1,39 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,113,Katangi,ALLIKA VENKATESWAR RAO,Bahujan Samaj Party,2067,28,2095,0.97
-S12,Madhya Pradesh,113,Katangi,KANDALA UPENDER REDDY,Bharat Rashtra Samithi,70859,311,71170,32.82
-S12,Madhya Pradesh,113,Katangi,PONGULETI SRINIVASA REDDY,Indian National Congress,126243,1577,127820,58.94
-S12,Madhya Pradesh,113,Katangi,RAVI KUMAR NUNNA,Bharatiya Janata Party,1790,25,1815,0.84
-S12,Madhya Pradesh,113,Katangi,VEERABHADRAM THAMMINENI,Communist Party of India (Marxist),5280,28,5308,2.45
-S12,Madhya Pradesh,113,Katangi,KUKKALA NAGAIAH,Alliance of Democratic Reforms Party,1077,3,1080,0.5
-S12,Madhya Pradesh,113,Katangi,TEJAVATH BALAKRISHNA,Bhartiya Swadeshi Congress,90,0,90,0.04
-S12,Madhya Pradesh,113,Katangi,DULAM VENKATNARAYANA,Prajavani Party,199,0,199,0.09
-S12,Madhya Pradesh,113,Katangi,PAPETLA RAMAMURTHY,Sakala Janula Party,107,1,108,0.05
-S12,Madhya Pradesh,113,Katangi,PRASAD KOMMA,Dalita Bahujana Party,62,0,62,0.03
-S12,Madhya Pradesh,113,Katangi,MATTI PRASAD,Bahujan Mukti Party,112,1,113,0.05
-S12,Madhya Pradesh,113,Katangi,VENKATESWARLU KAMPATI,Marxist Communist Party of India (United),292,1,293,0.14
-S12,Madhya Pradesh,113,Katangi,HALAVATH RAMA RAO,Pyramid Party of India,246,0,246,0.11
-S12,Madhya Pradesh,113,Katangi,ACHUTA RAO NELLURI,Independent,531,1,532,0.25
-S12,Madhya Pradesh,113,Katangi,AJMEERA KISHAN,Independent,545,0,545,0.25
-S12,Madhya Pradesh,113,Katangi,AMARAGANI MALSOOR GOUD,Independent,654,0,654,0.3
-S12,Madhya Pradesh,113,Katangi,EDURUGATTLA CHITTI MALLU,Independent,169,0,169,0.08
-S12,Madhya Pradesh,113,Katangi,KOINI AMARENDRA,Independent,678,0,678,0.31
-S12,Madhya Pradesh,113,Katangi,GADDAM VEERABABU,Independent,406,1,407,0.19
-S12,Madhya Pradesh,113,Katangi,GOPOJU RAMESH,Independent,87,0,87,0.04
-S12,Madhya Pradesh,113,Katangi,TELAGAMALLA RAMBABU,Independent,71,1,72,0.03
-S12,Madhya Pradesh,113,Katangi,PASUMARTHY SRINIVAS,Independent,158,1,159,0.07
-S12,Madhya Pradesh,113,Katangi,PAMBA SURYANARAYANA,Independent,53,0,53,0.02
-S12,Madhya Pradesh,113,Katangi,BARI ASHOK,Independent,46,1,47,0.02
-S12,Madhya Pradesh,113,Katangi,BHUKYA PARVATHI,Independent,31,0,31,0.01
-S12,Madhya Pradesh,113,Katangi,BHAIRAVABHOTLA SRINIVASA RAO,Independent,65,0,65,0.03
-S12,Madhya Pradesh,113,Katangi,MARUTHI BABU. KESANI,Independent,487,1,488,0.23
-S12,Madhya Pradesh,113,Katangi,RAVINDAR ISLAVATH @ ISLAVATH RAVINDAR NAIK,Independent,60,0,60,0.03
-S12,Madhya Pradesh,113,Katangi,RAJENDAR ISLAVATH,Independent,66,0,66,0.03
-S12,Madhya Pradesh,113,Katangi,RAMASAHAYAM MADHAVI REDDY,Independent,282,0,282,0.13
-S12,Madhya Pradesh,113,Katangi,RAMIREDDY SUNKI REDDY,Independent,573,0,573,0.26
-S12,Madhya Pradesh,113,Katangi,VANKUDOTH THIRUPATHI NAIK,Independent,177,0,177,0.08
-S12,Madhya Pradesh,113,Katangi,SHOBHAN BABU HALAVATH,Independent,221,0,221,0.1
-S12,Madhya Pradesh,113,Katangi,SREENIVASU ANNABATHULA,Independent,207,0,207,0.1
-S12,Madhya Pradesh,113,Katangi,SHAIK SIRAJUDDIN,Independent,260,0,260,0.12
-S12,Madhya Pradesh,113,Katangi,SURESH GUGULOTHU @ GUGULOTH SURESH,Independent,52,0,52,0.02
-S12,Madhya Pradesh,113,Katangi,SANJEEVA RAO MANDA,Independent,46,1,47,0.02
-S12,Madhya Pradesh,113,Katangi,NOTA,None of the Above,515,5,520,0.24
+S29,Telangana,113,Palair,ALLIKA VENKATESWAR RAO,Bahujan Samaj Party,2067,28,2095,0.97
+S29,Telangana,113,Palair,KANDALA UPENDER REDDY,Bharat Rashtra Samithi,70859,311,71170,32.82
+S29,Telangana,113,Palair,PONGULETI SRINIVASA REDDY,Indian National Congress,126243,1577,127820,58.94
+S29,Telangana,113,Palair,RAVI KUMAR NUNNA,Bharatiya Janata Party,1790,25,1815,0.84
+S29,Telangana,113,Palair,VEERABHADRAM THAMMINENI,Communist Party of India (Marxist),5280,28,5308,2.45
+S29,Telangana,113,Palair,KUKKALA NAGAIAH,Alliance of Democratic Reforms Party,1077,3,1080,0.5
+S29,Telangana,113,Palair,TEJAVATH BALAKRISHNA,Bhartiya Swadeshi Congress,90,0,90,0.04
+S29,Telangana,113,Palair,DULAM VENKATNARAYANA,Prajavani Party,199,0,199,0.09
+S29,Telangana,113,Palair,PAPETLA RAMAMURTHY,Sakala Janula Party,107,1,108,0.05
+S29,Telangana,113,Palair,PRASAD KOMMA,Dalita Bahujana Party,62,0,62,0.03
+S29,Telangana,113,Palair,MATTI PRASAD,Bahujan Mukti Party,112,1,113,0.05
+S29,Telangana,113,Palair,VENKATESWARLU KAMPATI,Marxist Communist Party of India (United),292,1,293,0.14
+S29,Telangana,113,Palair,HALAVATH RAMA RAO,Pyramid Party of India,246,0,246,0.11
+S29,Telangana,113,Palair,ACHUTA RAO NELLURI,Independent,531,1,532,0.25
+S29,Telangana,113,Palair,AJMEERA KISHAN,Independent,545,0,545,0.25
+S29,Telangana,113,Palair,AMARAGANI MALSOOR GOUD,Independent,654,0,654,0.3
+S29,Telangana,113,Palair,EDURUGATTLA CHITTI MALLU,Independent,169,0,169,0.08
+S29,Telangana,113,Palair,KOINI AMARENDRA,Independent,678,0,678,0.31
+S29,Telangana,113,Palair,GADDAM VEERABABU,Independent,406,1,407,0.19
+S29,Telangana,113,Palair,GOPOJU RAMESH,Independent,87,0,87,0.04
+S29,Telangana,113,Palair,TELAGAMALLA RAMBABU,Independent,71,1,72,0.03
+S29,Telangana,113,Palair,PASUMARTHY SRINIVAS,Independent,158,1,159,0.07
+S29,Telangana,113,Palair,PAMBA SURYANARAYANA,Independent,53,0,53,0.02
+S29,Telangana,113,Palair,BARI ASHOK,Independent,46,1,47,0.02
+S29,Telangana,113,Palair,BHUKYA PARVATHI,Independent,31,0,31,0.01
+S29,Telangana,113,Palair,BHAIRAVABHOTLA SRINIVASA RAO,Independent,65,0,65,0.03
+S29,Telangana,113,Palair,MARUTHI BABU. KESANI,Independent,487,1,488,0.23
+S29,Telangana,113,Palair,RAVINDAR ISLAVATH @ ISLAVATH RAVINDAR NAIK,Independent,60,0,60,0.03
+S29,Telangana,113,Palair,RAJENDAR ISLAVATH,Independent,66,0,66,0.03
+S29,Telangana,113,Palair,RAMASAHAYAM MADHAVI REDDY,Independent,282,0,282,0.13
+S29,Telangana,113,Palair,RAMIREDDY SUNKI REDDY,Independent,573,0,573,0.26
+S29,Telangana,113,Palair,VANKUDOTH THIRUPATHI NAIK,Independent,177,0,177,0.08
+S29,Telangana,113,Palair,SHOBHAN BABU HALAVATH,Independent,221,0,221,0.1
+S29,Telangana,113,Palair,SREENIVASU ANNABATHULA,Independent,207,0,207,0.1
+S29,Telangana,113,Palair,SHAIK SIRAJUDDIN,Independent,260,0,260,0.12
+S29,Telangana,113,Palair,SURESH GUGULOTHU @ GUGULOTH SURESH,Independent,52,0,52,0.02
+S29,Telangana,113,Palair,SANJEEVA RAO MANDA,Independent,46,1,47,0.02
+S29,Telangana,113,Palair,NOTA,None of the Above,515,5,520,0.24

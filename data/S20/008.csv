@@ -1,15 +1,15 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,8,Ambah,AMIT SAHU,Bharatiya Janata Party,78915,710,79625,33.01
-S12,Madhya Pradesh,8,Ambah,KAILASH,Bahujan Samaj Party,1774,13,1787,0.74
-S12,Madhya Pradesh,8,Ambah,RAGHUVEER SINGH,Communist Party of India (Marxist),2828,15,2843,1.18
-S12,Madhya Pradesh,8,Ambah,VINOD KUMAR,Indian National Congress,58157,1209,59366,24.61
-S12,Madhya Pradesh,8,Ambah,SACHIN,Aam Aadmi Party,875,15,890,0.37
-S12,Madhya Pradesh,8,Ambah,JAGDEV SINGH,Indian Peoples Green Party,431,0,431,0.18
-S12,Madhya Pradesh,8,Ambah,MOHAMMAD RAFEEK,Jai Hind Congress Party,740,1,741,0.31
-S12,Madhya Pradesh,8,Ambah,KANARAM,Independent,655,6,661,0.27
-S12,Madhya Pradesh,8,Ambah,GANESHRAJ BANSAL,Independent,88356,967,89323,37.03
-S12,Madhya Pradesh,8,Ambah,NIRANJAN SINGH,Independent,573,1,574,0.24
-S12,Madhya Pradesh,8,Ambah,MOHAN SINGH,Independent,415,5,420,0.17
-S12,Madhya Pradesh,8,Ambah,MOHMMED EMAMDEEN,Independent,2169,5,2174,0.9
-S12,Madhya Pradesh,8,Ambah,RAJESH KUMAR SINGLA,Independent,672,1,673,0.28
-S12,Madhya Pradesh,8,Ambah,NOTA,None of the Above,1700,15,1715,0.71
+S20,Rajasthan,8,Hanumangarh,AMIT SAHU,Bharatiya Janata Party,78915,710,79625,33.01
+S20,Rajasthan,8,Hanumangarh,KAILASH,Bahujan Samaj Party,1774,13,1787,0.74
+S20,Rajasthan,8,Hanumangarh,RAGHUVEER SINGH,Communist Party of India (Marxist),2828,15,2843,1.18
+S20,Rajasthan,8,Hanumangarh,VINOD KUMAR,Indian National Congress,58157,1209,59366,24.61
+S20,Rajasthan,8,Hanumangarh,SACHIN,Aam Aadmi Party,875,15,890,0.37
+S20,Rajasthan,8,Hanumangarh,JAGDEV SINGH,Indian Peoples Green Party,431,0,431,0.18
+S20,Rajasthan,8,Hanumangarh,MOHAMMAD RAFEEK,Jai Hind Congress Party,740,1,741,0.31
+S20,Rajasthan,8,Hanumangarh,KANARAM,Independent,655,6,661,0.27
+S20,Rajasthan,8,Hanumangarh,GANESHRAJ BANSAL,Independent,88356,967,89323,37.03
+S20,Rajasthan,8,Hanumangarh,NIRANJAN SINGH,Independent,573,1,574,0.24
+S20,Rajasthan,8,Hanumangarh,MOHAN SINGH,Independent,415,5,420,0.17
+S20,Rajasthan,8,Hanumangarh,MOHMMED EMAMDEEN,Independent,2169,5,2174,0.9
+S20,Rajasthan,8,Hanumangarh,RAJESH KUMAR SINGLA,Independent,672,1,673,0.28
+S20,Rajasthan,8,Hanumangarh,NOTA,None of the Above,1700,15,1715,0.71

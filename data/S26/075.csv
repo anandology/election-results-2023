@@ -1,31 +1,31 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,75,Gurh,GIRISH DEWANGAN,Indian National Congress,57011,404,57415,34.29
-S12,Madhya Pradesh,75,Gurh,BINDOO FOOLE,Bahujan Samaj Party,931,18,949,0.57
-S12,Madhya Pradesh,75,Gurh,DR. RAMAN SINGH,Bharatiya Janata Party,101860,639,102499,61.21
-S12,Madhya Pradesh,75,Gurh,DHALCHAND SAHU,Ambedkarite Party of India,591,2,593,0.35
-S12,Madhya Pradesh,75,Gurh,DEBILAL SIRMOUR,Rashtriya Jansabha Party,142,2,144,0.09
-S12,Madhya Pradesh,75,Gurh,PRATIMA VASNIK,Republican Paksha (Khoripa),103,1,104,0.06
-S12,Madhya Pradesh,75,Gurh,FULESHWARI SAHU,Shakti Sena (Bharat Desh),79,0,79,0.05
-S12,Madhya Pradesh,75,Gurh,MANISH DEWANGAN,Johar Chhattisgarh Party,313,2,315,0.19
-S12,Madhya Pradesh,75,Gurh,RAJKUMAR,Samajwadi Party,74,0,74,0.04
-S12,Madhya Pradesh,75,Gurh,VIMAL AGRAWAL,Azad Janata Party,79,3,82,0.05
-S12,Madhya Pradesh,75,Gurh,VENKAT VERMA,Bhartiya Shakti Chetna Party,70,0,70,0.04
-S12,Madhya Pradesh,75,Gurh,GURPREET SINGH CHAHAL,Independent,77,0,77,0.05
-S12,Madhya Pradesh,75,Gurh,CHANDRAMANI VERMA,Independent,237,0,237,0.14
-S12,Madhya Pradesh,75,Gurh,DIPA LOVE RAMTEKE,Independent,765,1,766,0.46
-S12,Madhya Pradesh,75,Gurh,PRAYAG SAHU,Independent,207,0,207,0.12
-S12,Madhya Pradesh,75,Gurh,MAKHAN YADAV,Independent,1038,1,1039,0.62
-S12,Madhya Pradesh,75,Gurh,MULCHAND SAHU,Independent,522,0,522,0.31
-S12,Madhya Pradesh,75,Gurh,MRITYUNJAY TIWARI,Independent,82,0,82,0.05
-S12,Madhya Pradesh,75,Gurh,YUSUF BHAI MANIHAR,Independent,388,0,388,0.23
-S12,Madhya Pradesh,75,Gurh,RAKESH TIWARI,Independent,52,1,53,0.03
-S12,Madhya Pradesh,75,Gurh,RAKESH YADAV,Independent,23,0,23,0.01
-S12,Madhya Pradesh,75,Gurh,RAJENDRA KUMAR BHARTI,Independent,30,0,30,0.02
-S12,Madhya Pradesh,75,Gurh,RAHUL JAIN,Independent,38,1,39,0.02
-S12,Madhya Pradesh,75,Gurh,RUPESH DAS MANIKPURI,Independent,40,0,40,0.02
-S12,Madhya Pradesh,75,Gurh,LOKNATH SAHU,Independent,41,1,42,0.03
-S12,Madhya Pradesh,75,Gurh,VIJAY SAHU,Independent,77,0,77,0.05
-S12,Madhya Pradesh,75,Gurh,"VIRENDRA DIWAN ""NANDGAON KE SANGWARI""",Independent,88,1,89,0.05
-S12,Madhya Pradesh,75,Gurh,VISHESH DHAMGAYE,Independent,253,1,254,0.15
-S12,Madhya Pradesh,75,Gurh,SUDESH TIKAM,Independent,175,4,179,0.11
-S12,Madhya Pradesh,75,Gurh,NOTA,None of the Above,985,10,995,0.59
+S26,Chhattisgarh,75,Rajnandgaon,GIRISH DEWANGAN,Indian National Congress,57011,404,57415,34.29
+S26,Chhattisgarh,75,Rajnandgaon,BINDOO FOOLE,Bahujan Samaj Party,931,18,949,0.57
+S26,Chhattisgarh,75,Rajnandgaon,DR. RAMAN SINGH,Bharatiya Janata Party,101860,639,102499,61.21
+S26,Chhattisgarh,75,Rajnandgaon,DHALCHAND SAHU,Ambedkarite Party of India,591,2,593,0.35
+S26,Chhattisgarh,75,Rajnandgaon,DEBILAL SIRMOUR,Rashtriya Jansabha Party,142,2,144,0.09
+S26,Chhattisgarh,75,Rajnandgaon,PRATIMA VASNIK,Republican Paksha (Khoripa),103,1,104,0.06
+S26,Chhattisgarh,75,Rajnandgaon,FULESHWARI SAHU,Shakti Sena (Bharat Desh),79,0,79,0.05
+S26,Chhattisgarh,75,Rajnandgaon,MANISH DEWANGAN,Johar Chhattisgarh Party,313,2,315,0.19
+S26,Chhattisgarh,75,Rajnandgaon,RAJKUMAR,Samajwadi Party,74,0,74,0.04
+S26,Chhattisgarh,75,Rajnandgaon,VIMAL AGRAWAL,Azad Janata Party,79,3,82,0.05
+S26,Chhattisgarh,75,Rajnandgaon,VENKAT VERMA,Bhartiya Shakti Chetna Party,70,0,70,0.04
+S26,Chhattisgarh,75,Rajnandgaon,GURPREET SINGH CHAHAL,Independent,77,0,77,0.05
+S26,Chhattisgarh,75,Rajnandgaon,CHANDRAMANI VERMA,Independent,237,0,237,0.14
+S26,Chhattisgarh,75,Rajnandgaon,DIPA LOVE RAMTEKE,Independent,765,1,766,0.46
+S26,Chhattisgarh,75,Rajnandgaon,PRAYAG SAHU,Independent,207,0,207,0.12
+S26,Chhattisgarh,75,Rajnandgaon,MAKHAN YADAV,Independent,1038,1,1039,0.62
+S26,Chhattisgarh,75,Rajnandgaon,MULCHAND SAHU,Independent,522,0,522,0.31
+S26,Chhattisgarh,75,Rajnandgaon,MRITYUNJAY TIWARI,Independent,82,0,82,0.05
+S26,Chhattisgarh,75,Rajnandgaon,YUSUF BHAI MANIHAR,Independent,388,0,388,0.23
+S26,Chhattisgarh,75,Rajnandgaon,RAKESH TIWARI,Independent,52,1,53,0.03
+S26,Chhattisgarh,75,Rajnandgaon,RAKESH YADAV,Independent,23,0,23,0.01
+S26,Chhattisgarh,75,Rajnandgaon,RAJENDRA KUMAR BHARTI,Independent,30,0,30,0.02
+S26,Chhattisgarh,75,Rajnandgaon,RAHUL JAIN,Independent,38,1,39,0.02
+S26,Chhattisgarh,75,Rajnandgaon,RUPESH DAS MANIKPURI,Independent,40,0,40,0.02
+S26,Chhattisgarh,75,Rajnandgaon,LOKNATH SAHU,Independent,41,1,42,0.03
+S26,Chhattisgarh,75,Rajnandgaon,VIJAY SAHU,Independent,77,0,77,0.05
+S26,Chhattisgarh,75,Rajnandgaon,"VIRENDRA DIWAN ""NANDGAON KE SANGWARI""",Independent,88,1,89,0.05
+S26,Chhattisgarh,75,Rajnandgaon,VISHESH DHAMGAYE,Independent,253,1,254,0.15
+S26,Chhattisgarh,75,Rajnandgaon,SUDESH TIKAM,Independent,175,4,179,0.11
+S26,Chhattisgarh,75,Rajnandgaon,NOTA,None of the Above,985,10,995,0.59

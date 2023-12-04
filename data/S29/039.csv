@@ -1,30 +1,30 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,39,Rehli,KYASARAM PRAVIN KUMAR,Bahujan Samaj Party,1035,16,1051,0.56
-S12,Madhya Pradesh,39,Rehli,CHINTA PRABHAKAR,Bharat Rashtra Samithi,82614,498,83112,44.32
-S12,Madhya Pradesh,39,Rehli,T. JAYAPRAKASH REDDY,Indian National Congress,73317,1578,74895,39.94
-S12,Madhya Pradesh,39,Rehli,PULIMAMIDI RAJU,Bharatiya Janata Party,20509,412,20921,11.16
-S12,Madhya Pradesh,39,Rehli,CHANDRAMOHAN,Telangana Communist Party of India,218,0,218,0.12
-S12,Madhya Pradesh,39,Rehli,DODLA. VENKAT,Telangana Praja Shakthi Party,2094,0,2094,1.12
-S12,Madhya Pradesh,39,Rehli,NARSIMLU THOTA,India Praja Bandhu Party,110,0,110,0.06
-S12,Madhya Pradesh,39,Rehli,POLICE RAMCHANDER,All India Mahila Empowerment Party,69,0,69,0.04
-S12,Madhya Pradesh,39,Rehli,METHRI MANOHAR,Bahujan Republican Socialist Party,59,2,61,0.03
-S12,Madhya Pradesh,39,Rehli,MOHAMMED JAWEED,Desh Janhit Party,226,0,226,0.12
-S12,Madhya Pradesh,39,Rehli,REGOTI SHARATH KUMAR,Vidhyarthula Rajakiya Party,66,1,67,0.04
-S12,Madhya Pradesh,39,Rehli,SHEKER PALPANOORI,Bahujan Mukti Party,170,4,174,0.09
-S12,Madhya Pradesh,39,Rehli,D. SRINIVAS,Dharma Samaj Party,116,0,116,0.06
-S12,Madhya Pradesh,39,Rehli,SATYANARAYANA GOUD KOVURI,Bharatha Chaitanya Yuvajana Party,252,0,252,0.13
-S12,Madhya Pradesh,39,Rehli,KIRAN RATHOD,Independent,364,0,364,0.19
-S12,Madhya Pradesh,39,Rehli,KOLKUR PRATAP,Independent,447,0,447,0.24
-S12,Madhya Pradesh,39,Rehli,THUMMALAPALLY PRUTHVIRAJ,Independent,157,0,157,0.08
-S12,Madhya Pradesh,39,Rehli,NEERADI NARSIMULU,Independent,375,0,375,0.2
-S12,Madhya Pradesh,39,Rehli,PATLOLLA SANTOSH REDDY,Independent,309,2,311,0.17
-S12,Madhya Pradesh,39,Rehli,POSANPALLY BAPU REDDY,Independent,250,2,252,0.13
-S12,Madhya Pradesh,39,Rehli,BANGARU. KRISHNA,Independent,363,1,364,0.19
-S12,Madhya Pradesh,39,Rehli,MEDE GOPAL,Independent,123,1,124,0.07
-S12,Madhya Pradesh,39,Rehli,MOHAMED SAHEB JANI,Independent,67,0,67,0.04
-S12,Madhya Pradesh,39,Rehli,RAMESH YADAV,Independent,119,2,121,0.06
-S12,Madhya Pradesh,39,Rehli,V. VENKAT REDDY,Independent,134,0,134,0.07
-S12,Madhya Pradesh,39,Rehli,SATHYANARAYANA NAGUSANPALLI,Independent,266,0,266,0.14
-S12,Madhya Pradesh,39,Rehli,SATKULA. ANJANEYULU,Independent,97,1,98,0.05
-S12,Madhya Pradesh,39,Rehli,G. HARIKANTH REDDY,Independent,249,0,249,0.13
-S12,Madhya Pradesh,39,Rehli,NOTA,None of the Above,804,7,811,0.43
+S29,Telangana,39,Sangareddy,KYASARAM PRAVIN KUMAR,Bahujan Samaj Party,1035,16,1051,0.56
+S29,Telangana,39,Sangareddy,CHINTA PRABHAKAR,Bharat Rashtra Samithi,82614,498,83112,44.32
+S29,Telangana,39,Sangareddy,T. JAYAPRAKASH REDDY,Indian National Congress,73317,1578,74895,39.94
+S29,Telangana,39,Sangareddy,PULIMAMIDI RAJU,Bharatiya Janata Party,20509,412,20921,11.16
+S29,Telangana,39,Sangareddy,CHANDRAMOHAN,Telangana Communist Party of India,218,0,218,0.12
+S29,Telangana,39,Sangareddy,DODLA. VENKAT,Telangana Praja Shakthi Party,2094,0,2094,1.12
+S29,Telangana,39,Sangareddy,NARSIMLU THOTA,India Praja Bandhu Party,110,0,110,0.06
+S29,Telangana,39,Sangareddy,POLICE RAMCHANDER,All India Mahila Empowerment Party,69,0,69,0.04
+S29,Telangana,39,Sangareddy,METHRI MANOHAR,Bahujan Republican Socialist Party,59,2,61,0.03
+S29,Telangana,39,Sangareddy,MOHAMMED JAWEED,Desh Janhit Party,226,0,226,0.12
+S29,Telangana,39,Sangareddy,REGOTI SHARATH KUMAR,Vidhyarthula Rajakiya Party,66,1,67,0.04
+S29,Telangana,39,Sangareddy,SHEKER PALPANOORI,Bahujan Mukti Party,170,4,174,0.09
+S29,Telangana,39,Sangareddy,D. SRINIVAS,Dharma Samaj Party,116,0,116,0.06
+S29,Telangana,39,Sangareddy,SATYANARAYANA GOUD KOVURI,Bharatha Chaitanya Yuvajana Party,252,0,252,0.13
+S29,Telangana,39,Sangareddy,KIRAN RATHOD,Independent,364,0,364,0.19
+S29,Telangana,39,Sangareddy,KOLKUR PRATAP,Independent,447,0,447,0.24
+S29,Telangana,39,Sangareddy,THUMMALAPALLY PRUTHVIRAJ,Independent,157,0,157,0.08
+S29,Telangana,39,Sangareddy,NEERADI NARSIMULU,Independent,375,0,375,0.2
+S29,Telangana,39,Sangareddy,PATLOLLA SANTOSH REDDY,Independent,309,2,311,0.17
+S29,Telangana,39,Sangareddy,POSANPALLY BAPU REDDY,Independent,250,2,252,0.13
+S29,Telangana,39,Sangareddy,BANGARU. KRISHNA,Independent,363,1,364,0.19
+S29,Telangana,39,Sangareddy,MEDE GOPAL,Independent,123,1,124,0.07
+S29,Telangana,39,Sangareddy,MOHAMED SAHEB JANI,Independent,67,0,67,0.04
+S29,Telangana,39,Sangareddy,RAMESH YADAV,Independent,119,2,121,0.06
+S29,Telangana,39,Sangareddy,V. VENKAT REDDY,Independent,134,0,134,0.07
+S29,Telangana,39,Sangareddy,SATHYANARAYANA NAGUSANPALLI,Independent,266,0,266,0.14
+S29,Telangana,39,Sangareddy,SATKULA. ANJANEYULU,Independent,97,1,98,0.05
+S29,Telangana,39,Sangareddy,G. HARIKANTH REDDY,Independent,249,0,249,0.13
+S29,Telangana,39,Sangareddy,NOTA,None of the Above,804,7,811,0.43

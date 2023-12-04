@@ -1,13 +1,13 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,34,Mungaoli,KALU RAM,Bahujan Samaj Party,1011,6,1017,0.5
-S12,Madhya Pradesh,34,Mungaoli,GORDHAN,Bharatiya Janata Party,84455,1088,85543,42.3
-S12,Madhya Pradesh,34,Mungaoli,JAGDISH PRASAD DANODIA,Indian National Congress,33635,852,34487,17.05
-S12,Madhya Pradesh,34,Mungaoli,PEMA RAM,Communist Party of India (Marxist),71161,1004,72165,35.69
-S12,Madhya Pradesh,34,Mungaoli,MAHESH MORDIA,Rashtriya Loktantrik Party,3309,41,3350,1.66
-S12,Madhya Pradesh,34,Mungaoli,BIMLA,Parivartan Party of India,259,2,261,0.13
-S12,Madhya Pradesh,34,Mungaoli,VIJENDRA,Bharatiya Yuva Jan Ekta Party,312,1,313,0.15
-S12,Madhya Pradesh,34,Mungaoli,HANUMAN PRASAD RAIGAR,Bahujan Mukti Party,442,3,445,0.22
-S12,Madhya Pradesh,34,Mungaoli,GORDHAN,Independent,814,13,827,0.41
-S12,Madhya Pradesh,34,Mungaoli,BHAGIRATH,Independent,787,3,790,0.39
-S12,Madhya Pradesh,34,Mungaoli,MANOJ,Independent,1640,2,1642,0.81
-S12,Madhya Pradesh,34,Mungaoli,NOTA,None of the Above,1379,4,1383,0.68
+S20,Rajasthan,34,Dhod (SC),KALU RAM,Bahujan Samaj Party,1011,6,1017,0.5
+S20,Rajasthan,34,Dhod (SC),GORDHAN,Bharatiya Janata Party,84455,1088,85543,42.3
+S20,Rajasthan,34,Dhod (SC),JAGDISH PRASAD DANODIA,Indian National Congress,33635,852,34487,17.05
+S20,Rajasthan,34,Dhod (SC),PEMA RAM,Communist Party of India (Marxist),71161,1004,72165,35.69
+S20,Rajasthan,34,Dhod (SC),MAHESH MORDIA,Rashtriya Loktantrik Party,3309,41,3350,1.66
+S20,Rajasthan,34,Dhod (SC),BIMLA,Parivartan Party of India,259,2,261,0.13
+S20,Rajasthan,34,Dhod (SC),VIJENDRA,Bharatiya Yuva Jan Ekta Party,312,1,313,0.15
+S20,Rajasthan,34,Dhod (SC),HANUMAN PRASAD RAIGAR,Bahujan Mukti Party,442,3,445,0.22
+S20,Rajasthan,34,Dhod (SC),GORDHAN,Independent,814,13,827,0.41
+S20,Rajasthan,34,Dhod (SC),BHAGIRATH,Independent,787,3,790,0.39
+S20,Rajasthan,34,Dhod (SC),MANOJ,Independent,1640,2,1642,0.81
+S20,Rajasthan,34,Dhod (SC),NOTA,None of the Above,1379,4,1383,0.68

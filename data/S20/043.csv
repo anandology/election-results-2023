@@ -1,11 +1,11 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,43,Tikamgarh,KAILASH RAJ SAINI,Bahujan Samaj Party,1387,12,1399,0.66
-S12,Madhya Pradesh,43,Tikamgarh,CHHUTTAN LAL YADAV,Rashtriya Loktantrik Party,42088,281,42369,19.84
-S12,Madhya Pradesh,43,Tikamgarh,RAM LAL SHARMA,Bharatiya Janata Party,79067,984,80051,37.48
-S12,Madhya Pradesh,43,Tikamgarh,DR. SHIKHA MEEL BARALA,Indian National Congress,84253,1493,85746,40.15
-S12,Madhya Pradesh,43,Tikamgarh,HEMANT KUMAR KUMAWAT,Aam Aadmi Party,1046,5,1051,0.49
-S12,Madhya Pradesh,43,Tikamgarh,ASHOK CHOUDHARY,Independent,264,0,264,0.12
-S12,Madhya Pradesh,43,Tikamgarh,LALA RAM CHOUDHARY,Independent,485,0,485,0.23
-S12,Madhya Pradesh,43,Tikamgarh,VINOD KUMAR GODAVARA,Independent,608,0,608,0.28
-S12,Madhya Pradesh,43,Tikamgarh,SUNIL KUMAR YADAV,Independent,601,2,603,0.28
-S12,Madhya Pradesh,43,Tikamgarh,NOTA,None of the Above,980,7,987,0.46
+S20,Rajasthan,43,CHOMU,KAILASH RAJ SAINI,Bahujan Samaj Party,1387,12,1399,0.66
+S20,Rajasthan,43,CHOMU,CHHUTTAN LAL YADAV,Rashtriya Loktantrik Party,42088,281,42369,19.84
+S20,Rajasthan,43,CHOMU,RAM LAL SHARMA,Bharatiya Janata Party,79067,984,80051,37.48
+S20,Rajasthan,43,CHOMU,DR. SHIKHA MEEL BARALA,Indian National Congress,84253,1493,85746,40.15
+S20,Rajasthan,43,CHOMU,HEMANT KUMAR KUMAWAT,Aam Aadmi Party,1046,5,1051,0.49
+S20,Rajasthan,43,CHOMU,ASHOK CHOUDHARY,Independent,264,0,264,0.12
+S20,Rajasthan,43,CHOMU,LALA RAM CHOUDHARY,Independent,485,0,485,0.23
+S20,Rajasthan,43,CHOMU,VINOD KUMAR GODAVARA,Independent,608,0,608,0.28
+S20,Rajasthan,43,CHOMU,SUNIL KUMAR YADAV,Independent,601,2,603,0.28
+S20,Rajasthan,43,CHOMU,NOTA,None of the Above,980,7,987,0.46

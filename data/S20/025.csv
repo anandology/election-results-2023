@@ -1,10 +1,10 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,25,Shivpuri,Dharmpal,Bahujan Samaj Party,1083,10,1093,0.63
-S12,Madhya Pradesh,25,Shivpuri,Pitram Singh Kala,Indian National Congress,70905,1930,72835,42.16
-S12,Madhya Pradesh,25,Shivpuri,Rajendra Prasad,Aam Aadmi Party,1129,14,1143,0.66
-S12,Madhya Pradesh,25,Shivpuri,Rajesh Kumar Dahia,Bharatiya Janata Party,57265,725,57990,33.57
-S12,Madhya Pradesh,25,Shivpuri,Ramswaroop Singh,Rashtriya Loktantrik Party,1928,23,1951,1.13
-S12,Madhya Pradesh,25,Shivpuri,Kailash Chand Meghwal,Independent,35195,380,35575,20.59
-S12,Madhya Pradesh,25,Shivpuri,Kailash Chandra,Independent,525,11,536,0.31
-S12,Madhya Pradesh,25,Shivpuri,Ratan Singh,Independent,476,3,479,0.28
-S12,Madhya Pradesh,25,Shivpuri,NOTA,None of the Above,1132,13,1145,0.66
+S20,Rajasthan,25,Pilani,Dharmpal,Bahujan Samaj Party,1083,10,1093,0.63
+S20,Rajasthan,25,Pilani,Pitram Singh Kala,Indian National Congress,70905,1930,72835,42.16
+S20,Rajasthan,25,Pilani,Rajendra Prasad,Aam Aadmi Party,1129,14,1143,0.66
+S20,Rajasthan,25,Pilani,Rajesh Kumar Dahia,Bharatiya Janata Party,57265,725,57990,33.57
+S20,Rajasthan,25,Pilani,Ramswaroop Singh,Rashtriya Loktantrik Party,1928,23,1951,1.13
+S20,Rajasthan,25,Pilani,Kailash Chand Meghwal,Independent,35195,380,35575,20.59
+S20,Rajasthan,25,Pilani,Kailash Chandra,Independent,525,11,536,0.31
+S20,Rajasthan,25,Pilani,Ratan Singh,Independent,476,3,479,0.28
+S20,Rajasthan,25,Pilani,NOTA,None of the Above,1132,13,1145,0.66

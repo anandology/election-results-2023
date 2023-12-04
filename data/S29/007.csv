@@ -1,27 +1,27 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,7,Dimani,KANDI SRINIVASA REDDY,Indian National Congress,46763,961,47724,25.3
-S12,Madhya Pradesh,7,Dimani,JOGU RAMANNA,Bharat Rashtra Samithi,60321,595,60916,32.29
-S12,Madhya Pradesh,7,Dimani,PAYAL SHANKER,Bharatiya Janata Party,66468,1140,67608,35.84
-S12,Madhya Pradesh,7,Dimani,AGGIMALLA GANESH,Dharma Samaj Party,791,10,801,0.42
-S12,Madhya Pradesh,7,Dimani,ELCHARWAR SATHYANARAYANA,Baliraja Party,117,0,117,0.06
-S12,Madhya Pradesh,7,Dimani,KEMA SRINIVAS,Praja Ektha Party,234,6,240,0.13
-S12,Madhya Pradesh,7,Dimani,KAMLE BHAGAVAN,Republican Party of India,225,6,231,0.12
-S12,Madhya Pradesh,7,Dimani,GUDEPELLY GNANESH,Bharatha Chaitanya Yuvajana Party,162,4,166,0.09
-S12,Madhya Pradesh,7,Dimani,THUMRAM CHANDRA SHAV,Gondvana Gantantra Party,163,0,163,0.09
-S12,Madhya Pradesh,7,Dimani,BHUPENDER,Alliance of Democratic Reforms Party,761,8,769,0.41
-S12,Madhya Pradesh,7,Dimani,VOTER CAR SURESH,Yuga Thulasi Party,290,4,294,0.16
-S12,Madhya Pradesh,7,Dimani,SURYAVAMSHI VIDHYASAGAR,Bahujan Mukti Party,229,2,231,0.12
-S12,Madhya Pradesh,7,Dimani,ANNAM PREM DEVENDER,Independent,549,1,550,0.29
-S12,Madhya Pradesh,7,Dimani,ALLURI SANJEEVA REDDY,Independent,1936,10,1946,1.03
-S12,Madhya Pradesh,7,Dimani,ASLAM,Independent,1390,1,1391,0.74
-S12,Madhya Pradesh,7,Dimani,KALAMADUGU VIJAY KUMAR,Independent,1171,2,1173,0.62
-S12,Madhya Pradesh,7,Dimani,GEDAM JANARDHAN,Independent,943,2,945,0.5
-S12,Madhya Pradesh,7,Dimani,TAKSANDE DHARMAPAL,Independent,1057,1,1058,0.56
-S12,Madhya Pradesh,7,Dimani,TAKBIDE PANDIT RAO,Independent,878,0,878,0.47
-S12,Madhya Pradesh,7,Dimani,NAGANNA GALIPELLI,Independent,174,1,175,0.09
-S12,Madhya Pradesh,7,Dimani,BANU RAJESHWAR RAO,Independent,122,1,123,0.07
-S12,Madhya Pradesh,7,Dimani,BEDODKAR GANESH,Independent,154,3,157,0.08
-S12,Madhya Pradesh,7,Dimani,MUNDE PRAVEEN KUMAR,Independent,91,0,91,0.05
-S12,Madhya Pradesh,7,Dimani,VAGMARE ABISHEK,Independent,163,0,163,0.09
-S12,Madhya Pradesh,7,Dimani,SUBASH NAVATE,Independent,149,1,150,0.08
-S12,Madhya Pradesh,7,Dimani,NOTA,None of the Above,582,10,592,0.31
+S29,Telangana,7,Adilabad,KANDI SRINIVASA REDDY,Indian National Congress,46763,961,47724,25.3
+S29,Telangana,7,Adilabad,JOGU RAMANNA,Bharat Rashtra Samithi,60321,595,60916,32.29
+S29,Telangana,7,Adilabad,PAYAL SHANKER,Bharatiya Janata Party,66468,1140,67608,35.84
+S29,Telangana,7,Adilabad,AGGIMALLA GANESH,Dharma Samaj Party,791,10,801,0.42
+S29,Telangana,7,Adilabad,ELCHARWAR SATHYANARAYANA,Baliraja Party,117,0,117,0.06
+S29,Telangana,7,Adilabad,KEMA SRINIVAS,Praja Ektha Party,234,6,240,0.13
+S29,Telangana,7,Adilabad,KAMLE BHAGAVAN,Republican Party of India,225,6,231,0.12
+S29,Telangana,7,Adilabad,GUDEPELLY GNANESH,Bharatha Chaitanya Yuvajana Party,162,4,166,0.09
+S29,Telangana,7,Adilabad,THUMRAM CHANDRA SHAV,Gondvana Gantantra Party,163,0,163,0.09
+S29,Telangana,7,Adilabad,BHUPENDER,Alliance of Democratic Reforms Party,761,8,769,0.41
+S29,Telangana,7,Adilabad,VOTER CAR SURESH,Yuga Thulasi Party,290,4,294,0.16
+S29,Telangana,7,Adilabad,SURYAVAMSHI VIDHYASAGAR,Bahujan Mukti Party,229,2,231,0.12
+S29,Telangana,7,Adilabad,ANNAM PREM DEVENDER,Independent,549,1,550,0.29
+S29,Telangana,7,Adilabad,ALLURI SANJEEVA REDDY,Independent,1936,10,1946,1.03
+S29,Telangana,7,Adilabad,ASLAM,Independent,1390,1,1391,0.74
+S29,Telangana,7,Adilabad,KALAMADUGU VIJAY KUMAR,Independent,1171,2,1173,0.62
+S29,Telangana,7,Adilabad,GEDAM JANARDHAN,Independent,943,2,945,0.5
+S29,Telangana,7,Adilabad,TAKSANDE DHARMAPAL,Independent,1057,1,1058,0.56
+S29,Telangana,7,Adilabad,TAKBIDE PANDIT RAO,Independent,878,0,878,0.47
+S29,Telangana,7,Adilabad,NAGANNA GALIPELLI,Independent,174,1,175,0.09
+S29,Telangana,7,Adilabad,BANU RAJESHWAR RAO,Independent,122,1,123,0.07
+S29,Telangana,7,Adilabad,BEDODKAR GANESH,Independent,154,3,157,0.08
+S29,Telangana,7,Adilabad,MUNDE PRAVEEN KUMAR,Independent,91,0,91,0.05
+S29,Telangana,7,Adilabad,VAGMARE ABISHEK,Independent,163,0,163,0.09
+S29,Telangana,7,Adilabad,SUBASH NAVATE,Independent,149,1,150,0.08
+S29,Telangana,7,Adilabad,NOTA,None of the Above,582,10,592,0.31

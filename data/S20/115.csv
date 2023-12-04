@@ -1,11 +1,11 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,115,Seoni,KANARAM,Communist Party of India (Marxist),1094,1,1095,0.54
-S12,Madhya Pradesh,115,Seoni,GAJENDRA SINGH KUKANWALI,Aam Aadmi Party,894,15,909,0.45
-S12,Madhya Pradesh,115,Seoni,NAVIN KUMAR JAIN,Rashtriya Loktantrik Party,1487,17,1504,0.74
-S12,Madhya Pradesh,115,Seoni,MAHENDRA CHOUDHARY,Indian National Congress,80920,1291,82211,40.68
-S12,Madhya Pradesh,115,Seoni,VIJAY SINGH,Bharatiya Janata Party,105454,705,106159,52.53
-S12,Madhya Pradesh,115,Seoni,GOVIND KUMAWAT,National Janmandal Party,1602,5,1607,0.8
-S12,Madhya Pradesh,115,Seoni,GOVIND RAM,Aazad Samaj Party (Kanshi Ram),3032,9,3041,1.5
-S12,Madhya Pradesh,115,Seoni,AMAR SINGH BHAGWANPURA,Independent,473,0,473,0.23
-S12,Madhya Pradesh,115,Seoni,RAVI MEGHWAL LUNWA,Independent,3719,18,3737,1.85
-S12,Madhya Pradesh,115,Seoni,NOTA,None of the Above,1361,3,1364,0.67
+S20,Rajasthan,115,Nawan,KANARAM,Communist Party of India (Marxist),1094,1,1095,0.54
+S20,Rajasthan,115,Nawan,GAJENDRA SINGH KUKANWALI,Aam Aadmi Party,894,15,909,0.45
+S20,Rajasthan,115,Nawan,NAVIN KUMAR JAIN,Rashtriya Loktantrik Party,1487,17,1504,0.74
+S20,Rajasthan,115,Nawan,MAHENDRA CHOUDHARY,Indian National Congress,80920,1291,82211,40.68
+S20,Rajasthan,115,Nawan,VIJAY SINGH,Bharatiya Janata Party,105454,705,106159,52.53
+S20,Rajasthan,115,Nawan,GOVIND KUMAWAT,National Janmandal Party,1602,5,1607,0.8
+S20,Rajasthan,115,Nawan,GOVIND RAM,Aazad Samaj Party (Kanshi Ram),3032,9,3041,1.5
+S20,Rajasthan,115,Nawan,AMAR SINGH BHAGWANPURA,Independent,473,0,473,0.23
+S20,Rajasthan,115,Nawan,RAVI MEGHWAL LUNWA,Independent,3719,18,3737,1.85
+S20,Rajasthan,115,Nawan,NOTA,None of the Above,1361,3,1364,0.67

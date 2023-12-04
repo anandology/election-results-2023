@@ -1,9 +1,9 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,65,Maihar,Jagdish Prasad,Bahujan Samaj Party,1574,43,1617,0.82
-S12,Madhya Pradesh,65,Maihar,Jairam Jatav,Bharatiya Janata Party,80627,624,81251,41.31
-S12,Madhya Pradesh,65,Maihar,Tikaram Jully,Indian National Congress,107507,1077,108584,55.21
-S12,Madhya Pradesh,65,Maihar,Mahavir Prasad Rajoria,Aam Aadmi Party,1571,33,1604,0.82
-S12,Madhya Pradesh,65,Maihar,Mukesh Kumar,Rashtriya Loktantrik Party,977,2,979,0.5
-S12,Madhya Pradesh,65,Maihar,Nisha Devi,Independent,793,1,794,0.4
-S12,Madhya Pradesh,65,Maihar,Meena Kumari,Independent,599,0,599,0.3
-S12,Madhya Pradesh,65,Maihar,NOTA,None of the Above,1238,14,1252,0.64
+S20,Rajasthan,65,Alwar Rural,Jagdish Prasad,Bahujan Samaj Party,1574,43,1617,0.82
+S20,Rajasthan,65,Alwar Rural,Jairam Jatav,Bharatiya Janata Party,80627,624,81251,41.31
+S20,Rajasthan,65,Alwar Rural,Tikaram Jully,Indian National Congress,107507,1077,108584,55.21
+S20,Rajasthan,65,Alwar Rural,Mahavir Prasad Rajoria,Aam Aadmi Party,1571,33,1604,0.82
+S20,Rajasthan,65,Alwar Rural,Mukesh Kumar,Rashtriya Loktantrik Party,977,2,979,0.5
+S20,Rajasthan,65,Alwar Rural,Nisha Devi,Independent,793,1,794,0.4
+S20,Rajasthan,65,Alwar Rural,Meena Kumari,Independent,599,0,599,0.3
+S20,Rajasthan,65,Alwar Rural,NOTA,None of the Above,1238,14,1252,0.64

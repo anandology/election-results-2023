@@ -1,12 +1,12 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,37,Surkhi,MAHADEV SINGH,Indian National Congress,69804,1793,71597,35.1
-S12,Madhya Pradesh,37,Surkhi,RAJESH,Aam Aadmi Party,604,16,620,0.3
-S12,Madhya Pradesh,37,Surkhi,SANWARMAL,Bahujan Samaj Party,518,7,525,0.26
-S12,Madhya Pradesh,37,Surkhi,SUBHASH MEEL,Bharatiya Janata Party,112567,1669,114236,56.0
-S12,Madhya Pradesh,37,Surkhi,SARDAR SINGH ARYA,Jannayak Janta Party,848,4,852,0.42
-S12,Madhya Pradesh,37,Surkhi,PHOOL CHAND,Independent,179,0,179,0.09
-S12,Madhya Pradesh,37,Surkhi,BANSHIDHAR KHANDELA,Independent,11583,225,11808,5.79
-S12,Madhya Pradesh,37,Surkhi,BHANWAR SINGH GHOSALYA,Independent,837,0,837,0.41
-S12,Madhya Pradesh,37,Surkhi,MEENA SAINI,Independent,1658,12,1670,0.82
-S12,Madhya Pradesh,37,Surkhi,VIKARAM SINGH,Independent,231,3,234,0.11
-S12,Madhya Pradesh,37,Surkhi,NOTA,None of the Above,1439,6,1445,0.71
+S20,Rajasthan,37,Khandela,MAHADEV SINGH,Indian National Congress,69804,1793,71597,35.1
+S20,Rajasthan,37,Khandela,RAJESH,Aam Aadmi Party,604,16,620,0.3
+S20,Rajasthan,37,Khandela,SANWARMAL,Bahujan Samaj Party,518,7,525,0.26
+S20,Rajasthan,37,Khandela,SUBHASH MEEL,Bharatiya Janata Party,112567,1669,114236,56.0
+S20,Rajasthan,37,Khandela,SARDAR SINGH ARYA,Jannayak Janta Party,848,4,852,0.42
+S20,Rajasthan,37,Khandela,PHOOL CHAND,Independent,179,0,179,0.09
+S20,Rajasthan,37,Khandela,BANSHIDHAR KHANDELA,Independent,11583,225,11808,5.79
+S20,Rajasthan,37,Khandela,BHANWAR SINGH GHOSALYA,Independent,837,0,837,0.41
+S20,Rajasthan,37,Khandela,MEENA SAINI,Independent,1658,12,1670,0.82
+S20,Rajasthan,37,Khandela,VIKARAM SINGH,Independent,231,3,234,0.11
+S20,Rajasthan,37,Khandela,NOTA,None of the Above,1439,6,1445,0.71

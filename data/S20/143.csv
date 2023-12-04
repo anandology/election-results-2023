@@ -1,8 +1,8 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,143,Silwani,POORA RAM,Bharatiya Janata Party,95759,371,96130,47.28
-S12,Madhya Pradesh,143,Silwani,SAMARJIT SINGH,Indian National Congress,96015,1142,97157,47.79
-S12,Madhya Pradesh,143,Silwani,KRISHNA KUMAR RAJPUROHIT,Abhinav Rajasthan Party,2098,2,2100,1.03
-S12,Madhya Pradesh,143,Silwani,TIKMA RAM BHATI,Independent,856,0,856,0.42
-S12,Madhya Pradesh,143,Silwani,RAMESH KUMAR,Independent,755,4,759,0.37
-S12,Madhya Pradesh,143,Silwani,RAMESH KUMAR BHANDARI,Independent,2234,0,2234,1.1
-S12,Madhya Pradesh,143,Silwani,NOTA,None of the Above,4075,9,4084,2.01
+S20,Rajasthan,143,Bhinmal,POORA RAM,Bharatiya Janata Party,95759,371,96130,47.28
+S20,Rajasthan,143,Bhinmal,SAMARJIT SINGH,Indian National Congress,96015,1142,97157,47.79
+S20,Rajasthan,143,Bhinmal,KRISHNA KUMAR RAJPUROHIT,Abhinav Rajasthan Party,2098,2,2100,1.03
+S20,Rajasthan,143,Bhinmal,TIKMA RAM BHATI,Independent,856,0,856,0.42
+S20,Rajasthan,143,Bhinmal,RAMESH KUMAR,Independent,755,4,759,0.37
+S20,Rajasthan,143,Bhinmal,RAMESH KUMAR BHANDARI,Independent,2234,0,2234,1.1
+S20,Rajasthan,143,Bhinmal,NOTA,None of the Above,4075,9,4084,2.01

@@ -1,8 +1,8 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,125,Sausar,DIVYA MADERNA,Indian National Congress,99976,963,100939,48.12
-S12,Madhya Pradesh,125,Sausar,BHERA RAM CHOUDHARY (SIYOL),Bharatiya Janata Party,102925,821,103746,49.46
-S12,Madhya Pradesh,125,Sausar,SHYAM NAVEEN,Bahujan Samaj Party,1259,0,1259,0.6
-S12,Madhya Pradesh,125,Sausar,BHOMARAM,Abhinav Rajasthan Party,308,0,308,0.15
-S12,Madhya Pradesh,125,Sausar,VISHAL SINGH RATHORE,Independent,317,3,320,0.15
-S12,Madhya Pradesh,125,Sausar,SOHAN RAM,Independent,1273,4,1277,0.61
-S12,Madhya Pradesh,125,Sausar,NOTA,None of the Above,1912,1,1913,0.91
+S20,Rajasthan,125,Osian,DIVYA MADERNA,Indian National Congress,99976,963,100939,48.12
+S20,Rajasthan,125,Osian,BHERA RAM CHOUDHARY (SIYOL),Bharatiya Janata Party,102925,821,103746,49.46
+S20,Rajasthan,125,Osian,SHYAM NAVEEN,Bahujan Samaj Party,1259,0,1259,0.6
+S20,Rajasthan,125,Osian,BHOMARAM,Abhinav Rajasthan Party,308,0,308,0.15
+S20,Rajasthan,125,Osian,VISHAL SINGH RATHORE,Independent,317,3,320,0.15
+S20,Rajasthan,125,Osian,SOHAN RAM,Independent,1273,4,1277,0.61
+S20,Rajasthan,125,Osian,NOTA,None of the Above,1912,1,1913,0.91

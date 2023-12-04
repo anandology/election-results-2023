@@ -1,8 +1,8 @@
 st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
-S12,Madhya Pradesh,197,Gandhwani,ANIL,Aam Aadmi Party,3531,8,3539,1.66
-S12,Madhya Pradesh,197,Gandhwani,KALURAM,Bharatiya Janata Party,98766,485,99251,46.56
-S12,Madhya Pradesh,197,Gandhwani,CHETRAJ,Indian National Congress,76472,518,76990,36.12
-S12,Madhya Pradesh,197,Gandhwani,DALURAM,Bahujan Samaj Party,2207,12,2219,1.04
-S12,Madhya Pradesh,197,Gandhwani,BADRILAL,Aazad Samaj Party (Kanshi Ram),4233,8,4241,1.99
-S12,Madhya Pradesh,197,Gandhwani,RAMCHANDRA SUNARIWAL,Independent,23588,113,23701,11.12
-S12,Madhya Pradesh,197,Gandhwani,NOTA,None of the Above,3217,8,3225,1.51
+S20,Rajasthan,197,Dag,ANIL,Aam Aadmi Party,3531,8,3539,1.66
+S20,Rajasthan,197,Dag,KALURAM,Bharatiya Janata Party,98766,485,99251,46.56
+S20,Rajasthan,197,Dag,CHETRAJ,Indian National Congress,76472,518,76990,36.12
+S20,Rajasthan,197,Dag,DALURAM,Bahujan Samaj Party,2207,12,2219,1.04
+S20,Rajasthan,197,Dag,BADRILAL,Aazad Samaj Party (Kanshi Ram),4233,8,4241,1.99
+S20,Rajasthan,197,Dag,RAMCHANDRA SUNARIWAL,Independent,23588,113,23701,11.12
+S20,Rajasthan,197,Dag,NOTA,None of the Above,3217,8,3225,1.51
