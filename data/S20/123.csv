@@ -1,0 +1,9 @@
+st_code,st_name,ac_no,ac_name,candidate,party,evm_votes,postal_votes,total_votes,percent_votes
+S12,Madhya Pradesh,123,Amarwara,KISHNA RAM VISHNOI,Indian National Congress,69901,965,70866,33.99
+S12,Madhya Pradesh,123,Amarwara,GAJENDRA SINGH,Bharatiya Janata Party,80704,711,81415,39.05
+S12,Madhya Pradesh,123,Amarwara,BHANWARLAL,Bahujan Samaj Party,1700,3,1703,0.82
+S12,Madhya Pradesh,123,Amarwara,SATYA NARAYAN BISHNOI,Rashtriya Loktantrik Party,49426,433,49859,23.91
+S12,Madhya Pradesh,123,Amarwara,JAGDISH,Bheem Tribal Congress,1312,2,1314,0.63
+S12,Madhya Pradesh,123,Amarwara,VISHEK VISHNOI,Independent,431,1,432,0.21
+S12,Madhya Pradesh,123,Amarwara,SHRAVAN KUMAR VISHNOI,Independent,986,0,986,0.47
+S12,Madhya Pradesh,123,Amarwara,NOTA,None of the Above,1908,5,1913,0.92

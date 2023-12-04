@@ -1,0 +1,120 @@
+ac_no,st_code,st_name,ac_name
+1,S29,Telangana,Sirpur
+2,S29,Telangana,Chennur (SC)
+3,S29,Telangana,Bellampalle (SC)
+4,S29,Telangana,Mancherial
+5,S29,Telangana,Asifabad (ST)
+6,S29,Telangana,Khanapur (ST)
+7,S29,Telangana,Adilabad
+8,S29,Telangana,Boath (ST)
+9,S29,Telangana,Nirmal
+10,S29,Telangana,Mudhole
+11,S29,Telangana,Armur
+12,S29,Telangana,Bodhan
+13,S29,Telangana,Jukkal (SC)
+14,S29,Telangana,Banswada
+15,S29,Telangana,Yellareddy
+16,S29,Telangana,Kamareddy
+17,S29,Telangana,Nizamabad (Urban)
+18,S29,Telangana,Nizamabad (Rural)
+19,S29,Telangana,Balkonda
+20,S29,Telangana,Koratla
+21,S29,Telangana,Jagtial
+22,S29,Telangana,Dharmapuri  (SC)
+23,S29,Telangana,Ramagundam
+24,S29,Telangana,Manthani
+25,S29,Telangana,Peddapalle
+26,S29,Telangana,Karimnagar
+27,S29,Telangana,Choppadandi (SC)
+28,S29,Telangana,Vemulawada
+29,S29,Telangana,Sircilla
+30,S29,Telangana,Manakondur  (SC)
+31,S29,Telangana,Huzurabad
+32,S29,Telangana,Husnabad
+33,S29,Telangana,Siddipet
+34,S29,Telangana,Medak
+35,S29,Telangana,Narayankhed
+36,S29,Telangana,Andole (SC)
+37,S29,Telangana,Narsapur
+38,S29,Telangana,Zaheerabad (SC)
+39,S29,Telangana,Sangareddy
+40,S29,Telangana,Patancheru
+41,S29,Telangana,Dubbak
+42,S29,Telangana,Gajwel
+43,S29,Telangana,Medchal
+44,S29,Telangana,Malkajgiri
+45,S29,Telangana,Quthbullapur
+46,S29,Telangana,Kukatpally
+47,S29,Telangana,Uppal
+48,S29,Telangana,Ibrahimpatnam
+49,S29,Telangana,Lal Bahadur Nagar
+50,S29,Telangana,Maheswaram
+51,S29,Telangana,Rajendranagar
+52,S29,Telangana,Serilingampally
+53,S29,Telangana,Chevella (SC)
+54,S29,Telangana,Pargi
+55,S29,Telangana,Vicarabad (SC)
+56,S29,Telangana,Tandur
+57,S29,Telangana,Musheerabad
+58,S29,Telangana,Malakpet
+59,S29,Telangana,Amberpet
+60,S29,Telangana,Khairatabad
+61,S29,Telangana,Jubilee Hills
+62,S29,Telangana,Sanathnagar
+63,S29,Telangana,Nampally
+64,S29,Telangana,Karwan
+65,S29,Telangana,Goshamahal
+66,S29,Telangana,Charminar
+67,S29,Telangana,Chandrayangutta
+68,S29,Telangana,Yakutpura
+69,S29,Telangana,Bahadurpura
+70,S29,Telangana,Secunderabad
+71,S29,Telangana,Secunderabad Cantt. (SC)
+72,S29,Telangana,Kodangal
+73,S29,Telangana,Narayanpet
+74,S29,Telangana,Mahbubnagar
+75,S29,Telangana,Jadcherla
+76,S29,Telangana,Devarkadra
+77,S29,Telangana,Makthal
+78,S29,Telangana,Wanaparthy
+79,S29,Telangana,Gadwal
+80,S29,Telangana,Alampur (SC)
+81,S29,Telangana,Nagarkurnool
+82,S29,Telangana,Achampet (SC)
+83,S29,Telangana,Kalwakurthy
+84,S29,Telangana,Shadnagar
+85,S29,Telangana,Kollapur
+86,S29,Telangana,Devarakonda (ST)
+87,S29,Telangana,Nagarjuna Sagar
+88,S29,Telangana,Miryalaguda
+89,S29,Telangana,Huzurnagar
+90,S29,Telangana,Kodad
+91,S29,Telangana,Suryapet
+92,S29,Telangana,Nalgonda
+93,S29,Telangana,Munugode
+94,S29,Telangana,Bhongir
+95,S29,Telangana,Nakrekal (SC)
+96,S29,Telangana,Thungathurthi (SC)
+97,S29,Telangana,Alair
+98,S29,Telangana,Jangoan
+99,S29,Telangana,Ghanpur (Station) (SC)
+100,S29,Telangana,Palakurthi
+101,S29,Telangana,Dornakal (ST)
+102,S29,Telangana,Mahabubabad (ST)
+103,S29,Telangana,Narsampet
+104,S29,Telangana,Parkal
+105,S29,Telangana,Warangal West
+106,S29,Telangana,Warangal East
+107,S29,Telangana,Waradhanapet (SC)
+108,S29,Telangana,Bhupalpalle
+109,S29,Telangana,Mulug (ST)
+110,S29,Telangana,Pinapaka (ST)
+111,S29,Telangana,Yellandu (ST)
+112,S29,Telangana,Khammam
+113,S29,Telangana,Palair
+114,S29,Telangana,Madhira (SC)
+115,S29,Telangana,Wyra (ST)
+116,S29,Telangana,Sathupalle (SC)
+117,S29,Telangana,Kothagudem
+118,S29,Telangana,Aswaraopeta (ST)
+119,S29,Telangana,Bhadrachalam (ST)

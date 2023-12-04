@@ -1,0 +1,201 @@
+ac_no,st_code,st_name,ac_name
+1,S20,Rajasthan,Sadulshahar
+2,S20,Rajasthan,Ganganagar
+3,S20,Rajasthan,Karanpur
+4,S20,Rajasthan,Suratgarh
+5,S20,Rajasthan,Raisinghnagar
+6,S20,Rajasthan,Anupgarh
+7,S20,Rajasthan,Sangaria
+8,S20,Rajasthan,Hanumangarh
+9,S20,Rajasthan,Pilibanga
+10,S20,Rajasthan,Nohar
+11,S20,Rajasthan,Bhadra
+12,S20,Rajasthan,Khajuwala
+13,S20,Rajasthan,Bikaner West
+14,S20,Rajasthan,Bikaner East
+15,S20,Rajasthan,Kolayat
+16,S20,Rajasthan,Lunkaransar
+17,S20,Rajasthan,SHREE DUNGARGARH
+18,S20,Rajasthan,Nokha
+19,S20,Rajasthan,Sadulpur
+20,S20,Rajasthan,Taranagar
+21,S20,Rajasthan,Sardarshahar
+22,S20,Rajasthan,Churu
+23,S20,Rajasthan,Ratangarh
+24,S20,Rajasthan,Sujangarh
+25,S20,Rajasthan,Pilani
+26,S20,Rajasthan,Surajgarh
+27,S20,Rajasthan,Jhunjhunu
+28,S20,Rajasthan,Mandawa
+29,S20,Rajasthan,Nawalgarh
+30,S20,Rajasthan,Udaipurwati
+31,S20,Rajasthan,Khetri
+32,S20,Rajasthan,Fatehpur
+33,S20,Rajasthan,Laxmangarh
+34,S20,Rajasthan,Dhod (SC)
+35,S20,Rajasthan,Sikar
+36,S20,Rajasthan,DANTARAMGARH
+37,S20,Rajasthan,Khandela
+38,S20,Rajasthan,Neem ka Thana
+39,S20,Rajasthan,Srimadhopur
+40,S20,Rajasthan,Kotputli
+41,S20,Rajasthan,VIRATNAGAR
+42,S20,Rajasthan,Shahpura
+43,S20,Rajasthan,CHOMU
+44,S20,Rajasthan,Phulera
+45,S20,Rajasthan,Dudu
+46,S20,Rajasthan,Jhotwara
+47,S20,Rajasthan,Amber
+48,S20,Rajasthan,Jamwa Ramgarh
+49,S20,Rajasthan,Hawamahal
+50,S20,Rajasthan,Vidhyadhar Nagar
+51,S20,Rajasthan,Civil Lines
+52,S20,Rajasthan,Kishanpole
+53,S20,Rajasthan,ADARSH NAGAR
+54,S20,Rajasthan,Malviya Nagar
+55,S20,Rajasthan,Sanganer
+56,S20,Rajasthan,Bagru
+57,S20,Rajasthan,Bassi
+58,S20,Rajasthan,Chaksu
+59,S20,Rajasthan,Tijara
+60,S20,Rajasthan,Kishangarh Bas
+61,S20,Rajasthan,Mundawar
+62,S20,Rajasthan,Behror
+63,S20,Rajasthan,Bansur
+64,S20,Rajasthan,Thanagazi
+65,S20,Rajasthan,Alwar Rural
+66,S20,Rajasthan,Alwar Urban
+67,S20,Rajasthan,Ramgarh
+68,S20,Rajasthan,Rajgarh-Laxmangarh
+69,S20,Rajasthan,Kathumar
+70,S20,Rajasthan,Kaman
+71,S20,Rajasthan,Nagar
+72,S20,Rajasthan,Deeg-Kumher
+73,S20,Rajasthan,Bharatpur
+74,S20,Rajasthan,Nadbai
+75,S20,Rajasthan,Weir
+76,S20,Rajasthan,Bayana
+77,S20,Rajasthan,Baseri
+78,S20,Rajasthan,Bari
+79,S20,Rajasthan,Dholpur
+80,S20,Rajasthan,Rajakhera
+81,S20,Rajasthan,Todabhim
+82,S20,Rajasthan,Hindaun
+83,S20,Rajasthan,Karauli
+84,S20,Rajasthan,Sapotra
+85,S20,Rajasthan,Bandikui
+86,S20,Rajasthan,Mahuwa
+87,S20,Rajasthan,Sikrai
+88,S20,Rajasthan,Dausa
+89,S20,Rajasthan,Lalsot
+90,S20,Rajasthan,Gangapur
+91,S20,Rajasthan,Bamanwas
+92,S20,Rajasthan,Sawai Madhopur
+93,S20,Rajasthan,Khandar
+94,S20,Rajasthan,Malpura
+95,S20,Rajasthan,Niwai
+96,S20,Rajasthan,Tonk
+97,S20,Rajasthan,Deoli-Uniara
+98,S20,Rajasthan,Kishangarh
+99,S20,Rajasthan,Pushkar
+100,S20,Rajasthan,Ajmer North
+101,S20,Rajasthan,Ajmer South
+102,S20,Rajasthan,Nasirabad
+103,S20,Rajasthan,Beawar
+104,S20,Rajasthan,Masuda
+105,S20,Rajasthan,Kekri
+106,S20,Rajasthan,Ladnun
+107,S20,Rajasthan,Deedwana
+108,S20,Rajasthan,Jayal
+109,S20,Rajasthan,Nagaur
+110,S20,Rajasthan,Khinvsar
+111,S20,Rajasthan,Merta
+112,S20,Rajasthan,Degana
+113,S20,Rajasthan,Makrana
+114,S20,Rajasthan,Parbatsar
+115,S20,Rajasthan,Nawan
+116,S20,Rajasthan,Jaitaran
+117,S20,Rajasthan,Sojat
+118,S20,Rajasthan,Pali
+119,S20,Rajasthan,Marwar Junction
+120,S20,Rajasthan,Bali
+121,S20,Rajasthan,Sumerpur
+122,S20,Rajasthan,Phalodi
+123,S20,Rajasthan,Lohawat
+124,S20,Rajasthan,Shergarh
+125,S20,Rajasthan,Osian
+126,S20,Rajasthan,Bhopalgarh
+127,S20,Rajasthan,Sardarpura
+128,S20,Rajasthan,Jodhpur
+129,S20,Rajasthan,Soorsagar
+130,S20,Rajasthan,Luni
+131,S20,Rajasthan,Bilara
+132,S20,Rajasthan,Jaisalmer
+133,S20,Rajasthan,Pokaran
+134,S20,Rajasthan,Sheo
+135,S20,Rajasthan,Barmer
+136,S20,Rajasthan,Baytoo
+137,S20,Rajasthan,Pachpadra
+138,S20,Rajasthan,Siwana
+139,S20,Rajasthan,Gudamalani
+140,S20,Rajasthan,Chohtan
+141,S20,Rajasthan,Ahore
+142,S20,Rajasthan,Jalore
+143,S20,Rajasthan,Bhinmal
+144,S20,Rajasthan,Sanchore
+145,S20,Rajasthan,Raniwara
+146,S20,Rajasthan,Sirohi
+147,S20,Rajasthan,Pindwara Abu
+148,S20,Rajasthan,Reodar
+149,S20,Rajasthan,Gogunda
+150,S20,Rajasthan,Jhadol
+151,S20,Rajasthan,Kherwara
+152,S20,Rajasthan,Udaipur Rural
+153,S20,Rajasthan,Udaipur
+154,S20,Rajasthan,Mavli
+155,S20,Rajasthan,Vallabhnagar
+156,S20,Rajasthan,Salumber
+157,S20,Rajasthan,Dhariawad
+158,S20,Rajasthan,Dungarpur
+159,S20,Rajasthan,Aspur
+160,S20,Rajasthan,Sagwara
+161,S20,Rajasthan,Chorasi
+162,S20,Rajasthan,Ghatol
+163,S20,Rajasthan,Garhi
+164,S20,Rajasthan,Banswara
+165,S20,Rajasthan,Bagidora
+166,S20,Rajasthan,Kushalgarh
+167,S20,Rajasthan,Kapasan
+168,S20,Rajasthan,Begun
+169,S20,Rajasthan,Chittorgarh
+170,S20,Rajasthan,Nimbahera
+171,S20,Rajasthan,Badi Sadri
+172,S20,Rajasthan,Pratapgarh
+173,S20,Rajasthan,Bhim
+174,S20,Rajasthan,Kumbhalgarh
+175,S20,Rajasthan,Rajsamand
+176,S20,Rajasthan,Nathdwara
+177,S20,Rajasthan,Asind
+178,S20,Rajasthan,Mandal
+179,S20,Rajasthan,Sahara
+180,S20,Rajasthan,Bhilwara
+181,S20,Rajasthan,Shahpura
+182,S20,Rajasthan,Jahazpur
+183,S20,Rajasthan,Mandalgarh
+184,S20,Rajasthan,Hindoli
+185,S20,Rajasthan,Keshoraipatan
+186,S20,Rajasthan,Bundi
+187,S20,Rajasthan,Pipalda
+188,S20,Rajasthan,Sangod
+189,S20,Rajasthan,Kota North
+190,S20,Rajasthan,Kota South
+191,S20,Rajasthan,Ladpura
+192,S20,Rajasthan,Ramganj Mandi
+193,S20,Rajasthan,Anta
+194,S20,Rajasthan,Kishanganj
+195,S20,Rajasthan,Baran-Atru
+196,S20,Rajasthan,Chhabra
+197,S20,Rajasthan,Dag
+198,S20,Rajasthan,Jhalrapatan
+199,S20,Rajasthan,Khanpur
+200,S20,Rajasthan,Manohar Thana
